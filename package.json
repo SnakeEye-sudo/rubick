@@ -1,8 +1,7 @@
 {
   "name": "rubick",
   "version": "4.3.7",
-  "author": "muwoo <2424880409@qq.com>",
-  "private": true,
+  "author": "Er. Sangam Krishna <krishna.sangam11@gmail.com>",  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
