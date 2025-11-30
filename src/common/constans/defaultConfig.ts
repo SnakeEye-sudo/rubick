@@ -9,8 +9,7 @@ export default {
       successColor: '#c0d695',
       infoColor: '#aa8eeB',
       logo: `file://${__static}/logo.png`,
-      placeholder: '你好，Rubick！请输入插件关键词',
-      username: 'Rubick',
+placeholder: 'Hello Rubick! Enter search text',      username: 'Rubick',
     },
     shortCut: {
       showAndHidden: 'Option+R',
@@ -26,7 +25,7 @@ export default {
       darkMode: false,
       guide: false,
       history: true,
-      lang: 'zh-CN',
+      lang: 'en',
     },
     local: {
       search: true,
