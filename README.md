@@ -109,3 +109,16 @@ This project exists thanks to all the people who contribute. [[Contribute](https
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/rubickCenter/rubick/blob/master/LICENSE) file for details.
+
+
+## Custom Fork by Er. Sangam Krishna
+
+This is a customized fork of Rubick, modified and maintained by **Er. Sangam Krishna** (SnakeEye-sudo).
+
+### About the Maintainer
+- **Name:** Er. Sangam Krishna
+- **Email:** krishna.sangam11@gmail.com
+- **GitHub:** [SnakeEye-sudo](https://github.com/SnakeEye-sudo)
+- **Location:** Bettiah, Bihar, India
+
+This fork maintains the original Rubick functionality while being tailored for personal use and experimentation.
